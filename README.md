@@ -2,7 +2,9 @@
 
 
 Welcome to the Super Mario game, a Python-based 2D platformer where you control Mario. The game features classic gameplay with modern code! Mario has 3 lives, must avoid falling mushrooms, and dodge crabs moving across the screen. Can you help Mario survive?
+
 ![Screenshot (2274)@2x](https://user-images.githubusercontent.com/63051195/127716242-92a7ad28-8fd3-4722-93c6-0a835db0761c.png)
+
 ## Table of Contents
 - [Game Features](#game-features)
 - [Gameplay](#gameplay)
